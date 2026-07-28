@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGen_To_Cobol", "DataGen_To_Cobol.csproj", "{17FE1942-404D-41B9-8212-BEF6DDB6C499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17FE1942-404D-41B9-8212-BEF6DDB6C499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FE1942-404D-41B9-8212-BEF6DDB6C499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FE1942-404D-41B9-8212-BEF6DDB6C499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FE1942-404D-41B9-8212-BEF6DDB6C499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B932C7-D89C-418C-98C4-594AEA03FC13}
+	EndGlobalSection
+EndGlobal
